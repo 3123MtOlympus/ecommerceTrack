@@ -56,3 +56,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+### Walkthrough Video
+https://drive.google.com/file/d/1xTkRckg8bUYeVzfLpgJ_4ZDrl01lG-lB/view
+
